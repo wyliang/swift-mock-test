@@ -1,0 +1,16 @@
+PODS:
+  - Mockit (1.4.0)
+
+DEPENDENCIES:
+  - Mockit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Mockit
+
+SPEC CHECKSUMS:
+  Mockit: 03fd83ba6d0f71bc4af6d2745ac7a01b084ab3ca
+
+PODFILE CHECKSUM: 89adceb8a40c5e71d808a66f35d5e952bc63efdc
+
+COCOAPODS: 1.5.0
